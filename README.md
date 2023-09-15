@@ -1,6 +1,7 @@
 # Grid Exercise
 
 Creating a Photo Collage and Text Section using HTML and CSS
+![Result](https://github.com/techcodedu/grid/blob/main/Result.PNG)
 
 In this guide, you will learn how to create a photo collage and text section using HTML and CSS. We will create a webpage with a text section on one side and a photo collage on the other side.
 
